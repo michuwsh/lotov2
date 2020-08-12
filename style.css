@@ -1,0 +1,34 @@
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+}
+.content {
+    display: flex;
+    justify-content: center;
+}
+.btn {
+    background: cadetblue;
+    font-size: 1.5rem;
+    color: #FFF;
+    padding: .5em 1.5rem;
+    border-radius: 1rem;
+    outline: none;
+    border-color: cadetblue; 
+}
+.output {
+    margin-left: 2rem;
+    width: 250px;
+    height: 50px;
+    border: 1px solid #efefef;
+    background-color: #efefef;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#numbers {
+    font-size: 1.5rem;
+}
